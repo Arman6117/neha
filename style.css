@@ -42,9 +42,22 @@ body {
   font-size: 30px;
 }
 
+.image1 {
+  width: auto ;
+  scale: 1.4;
+  margin-left: 15%;
+  margin-bottom: 50px;
+}
+.image3 {
+  width: auto ;
+  scale: 1.2;
+  margin-left: 12%;
+  margin-bottom: 10px;
+}
 img {
   max-height: 200px;
-  width: 100%;
+  width: auto;
+  
   user-select: none;
 }
 
